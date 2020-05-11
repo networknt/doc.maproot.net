@@ -1,6 +1,6 @@
 ---
 title: Hugo Documentation
-linktitle: Hugo
+linktitle: MapRoot
 description: Hugo is the world's fastest static website engine. It's written in Go (aka Golang) and developed by bep, spf13 and friends.
 date: 2017-02-01
 publishdate: 2017-02-01

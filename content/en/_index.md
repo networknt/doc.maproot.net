@@ -1,5 +1,5 @@
 ---
-title: "The world’s fastest framework for building websites"
+title: "The world’s fastest framework for building geolocation based websites"
 date: 2017-03-02T12:00:00-05:00
 features:
   - heading: Blistering Speed
@@ -28,7 +28,7 @@ features:
     copy: Hugo provides full i18n support for multi-language sites with the same straightforward development experience Hugo users love in single-language sites.
 
   - heading: Custom Outputs
-    image_path: /images/icon-custom-outputs.svg
+    image_path: /images/icon-multilingual.svg
     tagline: HTML not enough?
     copy: Hugo allows you to output your content in multiple formats, including JSON or AMP, and makes it easy to create your own.
 sections:
@@ -46,4 +46,4 @@ sections:
     copy: "Hugo's Go-based templating provides just the right amount of logic to build anything from the simple to complex."
 ---
 
-Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.
+MapRoot is one of the most popular open-source geolocation based site generators. With its amazing speed and flexibility, MapRoot makes building websites fun again.
