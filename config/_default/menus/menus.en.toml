@@ -72,3 +72,38 @@
   identifier = "contribute"
   url = "/contribute/"
 
+######## GLOBAL ITEMS TO BE SHARED WITH THE HUGO SITES
+
+  [[global]]
+    name = "News"
+    weight = 1
+    identifier = "news"
+    url = "/news/"
+
+  [[global]]
+    name = "Docs"
+    weight = 5
+    identifier = "docs"
+    url = "/documentation/"
+
+  [[global]]
+    name = "Showcase"
+    weight = 20
+    identifier = "showcase"
+    url = "/showcase/"
+
+  # Anything with a weight > 100 gets an external icon
+  [[global]]
+    name = "Community"
+    weight = 150
+    icon = true
+    identifier = "community"
+    post = "external"
+    url = "https://gitter.im/networknt/maproot"
+
+  [[global]]
+    name = "GitHub"
+    weight = 200
+    identifier = "github"
+    post = "external"
+    url = "https://github.com/networknt/maproot"
