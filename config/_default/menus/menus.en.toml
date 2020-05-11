@@ -1,0 +1,74 @@
+[[docs]]
+  name = "About MapRoot"
+  weight = 1
+  identifier = "about"
+  url = "/about/"
+
+[[docs]]
+  name = "Getting Started"
+  weight = 5
+  identifier = "getting-started"
+  url = "/getting-started/"
+
+[[docs]]
+  name = "Feature"
+  weight = 15
+  identifier = "feature"
+  post = "break"
+  url = "/feature/"
+
+# Core Menus
+
+[[docs]]
+  name = "City"
+  weight = 20
+  identifier = "city"
+  post = "expanded"
+  url = "/city/"
+
+[[docs]]
+  name = "Entity"
+  weight = 23
+  identifier = "entity"
+  url = "/entity/"
+
+[[docs]]
+  name = "Category"
+  weight = 25
+  identifier = "category"
+  url = "/category/"
+
+[[docs]]
+  name = "Website"
+  weight = 30
+  identifier = "website"
+  url = "/website/"
+
+[[docs]]
+  name = "Status"
+  weight = 35
+  identifier = "status"
+  url = "/status/"
+
+
+# LOW LEVEL ITEMS
+
+[[docs]]
+  name = "Troubleshooting"
+  weight = 60
+  identifier = "troubleshooting"
+  url = "/troubleshooting/"
+
+[[docs]]
+  name = "Tool"
+  weight = 70
+  identifier = "tool"
+  url = "/tool/"
+
+[[docs]]
+  name = "Contribute"
+  weight = 100
+  post = "break"
+  identifier = "contribute"
+  url = "/contribute/"
+
