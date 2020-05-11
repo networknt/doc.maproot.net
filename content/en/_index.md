@@ -1,5 +1,5 @@
 ---
-title: "The world’s fastest framework for building geolocation based websites"
+title: "The world’s fastest platform for building and running geolocation based websites"
 date: 2017-03-02T12:00:00-05:00
 features:
   - heading: Blistering Speed
@@ -46,4 +46,4 @@ sections:
     copy: "Hugo's Go-based templating provides just the right amount of logic to build anything from the simple to complex."
 ---
 
-MapRoot is one of the most popular open-source geolocation based site generators. With its amazing speed and flexibility, MapRoot makes building websites fun again.
+MapRoot is one of the most popular open-source geolocation based site generators. With its amazing speed and flexibility, MapRoot makes building and running websites fun again.

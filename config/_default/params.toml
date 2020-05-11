@@ -1,5 +1,5 @@
 
-description = "The world’s fastest framework for building geolocation based websites"
+description = "The world’s fastest platform for building and running geolocation based websites"
 ## Setting this to true will add a "noindex" to *EVERY* page on the site..
 removefromexternalsearch = false
 ## Gh repo for site footer (include trailing slash)
