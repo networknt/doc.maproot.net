@@ -29,3 +29,10 @@ Here is a video to walk through how to create a website in 30 minutes.
 
 {{< youtube lCnUjcChIsM >}}
 
+
+A video on setting up payment options. 
+
+
+{{< youtube Hl3pr4nOCd0 >}}
+
+
