@@ -1,4 +1,5 @@
 ---
+title: "Website"
 linktitle: ""
 description: ""
 godocref: ""
@@ -11,3 +12,18 @@ slug: ""
 aliases: []
 toc: false
 ---
+
+For all registered users, they can create an entity and a Website on the map with a category and subcategory. The following categories are created to help small businesses during and after the pandemic. 
+
+### Restaurant
+
+
+* [Customer](/website/restaurant/customer/)
+* [Owner](/website/restaurant/owner/)
+* [Designer](/website/restaurant/designer/)
+
+
+### Retail
+
+### Farmer
+
