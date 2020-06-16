@@ -17,11 +17,10 @@ For all registered users, they can create an entity and a Website on the map wit
 
 ### Restaurant
 
-
 * [Customer](/website/restaurant/customer/)
 * [Owner](/website/restaurant/owner/)
 * [Designer](/website/restaurant/designer/)
-
+* [Create a Restaurant Site](/website/restaurant/restaurant/)
 
 ### Retail
 
