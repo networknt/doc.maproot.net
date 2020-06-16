@@ -23,8 +23,7 @@ Many cities are in a locked-down mode for a couple of months already, and most p
 
 The restaurant application allows customers to order and pay online and pick up at the door or counter to reduce the risk and enforce the social distance. When the risk is lower enough, customers can order at the table by scanning a QR Code on the table and placing the order. 
 
-
-Here is an example QR Code that you can scan to test. 
+Here is an example QR Code that you can scan to test from a restaurant table number 2. Of course, you can also find the restaurant from the map search or bookmark the restaurant in your browser.
 
 ![restaurant menu](/images/restaurant_menu.png)
 
